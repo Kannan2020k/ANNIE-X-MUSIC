@@ -1,7 +1,7 @@
 aiofiles
-aiohttp
+aiohttp==3.9.3
 apscheduler
-asyncio
+asyncio==3.4.3
 bard
 beautifulsoup4
 bs4
@@ -37,7 +37,7 @@ pydub
 pyfiglet
 pykeyboard
 pyrogram==2.0.106
-python-dotenv
+python-dotenv==1.0.1
 python-telegram-bot==21.1.1
 python-whois
 pyshorteners
